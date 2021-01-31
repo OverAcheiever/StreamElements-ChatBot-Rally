@@ -5,7 +5,13 @@
     "value": "",
     "group": "JWT Token"
   },
-	"rallyPriceCommand": {
+  "commands": {
+    "type": "text",
+    "label": "Command List Command",
+    "value": "!cmds",
+    "group": "Commands List"
+  },
+	"commandsCooldown": {
     "type": "text",
     "label": "Rally Price Command",
     "value": "!rly",
