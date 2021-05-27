@@ -50,7 +50,6 @@ Each Command offers customisation of the command name (Eg: **!rly**) and Command
 
 ## **Developer Information**
 This widget is made by OverAchiever.
-- Discord: **OverAchiever#7428**
-- [Twitch](https://www.twitch.tv/overacheiever)
+- Discord: **OverAchiever#2239**
 
 **This Project is under an MIT License. License can be found [here](https://github.com/OverAcheiever/StreamElements-ChatBot-Rally/blob/main/LICENSE.md)**
